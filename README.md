@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Social proof section solution - GitHub](https://github.com/sunil-sharma-999/Frontend-Mentor-Social-proof-section-solution)
-- Live Site URL: [Social proof section solution](https://sunil-sharma-999.github.io/Frontend-Mentor-Social-proof-section-solution)
+- Solution URL: [Social proof section solution - GitHub](https://github.com/sunil-sharma-999/Frontend-Mentor-Social-proof-section-solution/)
+- Live Site URL: [Social proof section solution](https://sunil-sharma-999.github.io/Frontend-Mentor-Social-proof-section-solution/)
 
 ## My process
 
