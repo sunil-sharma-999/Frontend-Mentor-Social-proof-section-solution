@@ -81,8 +81,8 @@ header p {
 
 @media (min-width: 800px) {
   
-html {
-  body: auto;
+body {
+  overflow: auto;
 }
   .container {
     padding: 6rem 6rem 0 6rem;
