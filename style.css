@@ -82,7 +82,7 @@ header p {
 @media (min-width: 800px) {
   
 html {
-  overflow: hidden;
+  body: auto;
 }
   .container {
     padding: 6rem 6rem 0 6rem;
