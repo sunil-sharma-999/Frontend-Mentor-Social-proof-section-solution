@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section solution
+# Social proof section solution
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Social proof section solution - GitHub](https://github.com/sunil-sharma-999/Frontend-Mentor-Social-proof-section-solution/)
-- Live Site URL: [Social proof section solution](https://sunil-sharma-999.github.io/Frontend-Mentor-Social-proof-section-solution/)
+- Solution URL: [Social proof section solution - GitHub](https://github.com/sunil-sharma-999/Social-proof-section-solution/)
+- Live Site URL: [Social proof section solution](https://sunil-sharma-999.github.io/Social-proof-section-solution/)
 
 ## My process
 
